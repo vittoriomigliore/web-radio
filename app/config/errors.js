@@ -1,0 +1,3 @@
+export const NO_PROGRAM_FOUND = 'NO_PROGRAM_FOUND';
+export const NO_IMAGE_FOUND = 'NO_IMAGE_FOUND';
+export const NO_TEXT_FOUND = 'NO_TEXT_FOUND';

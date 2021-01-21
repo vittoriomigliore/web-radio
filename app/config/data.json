@@ -1,0 +1,127 @@
+{
+    "error": false,
+    "programs":[
+        {
+            "title": "Together Night",
+            "onair": true,
+            "periodicity": "Best Radio Program",
+            "time": "9:00",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus velit nisi, suscipit sed mattis ullamcorper, venenatis non ex. Sed feugiat consequat elit, a lacinia est volutpat sit amet. Sed quis bibendum nisi. Nullam eget ipsum sagittis, consectetur nunc eget, hendrerit lacus. Maecenas aliquam, diam et mattis placerat, dui mauris mollis erat, in tincidunt sem augue ut leo. Maecenas dui purus, bibendum id sem ut, condimentum dictum eros. Suspendisse in est tortor. Quisque sed nulla placerat, commodo erat id, pulvinar odio.",
+            "image": "https://image.freepik.com/free-photo/microphone-acoustic-isolation-foam_23-2148695273.jpg",
+            "facebook": "FacebookURL",
+            "twitter": "TwitterURL",
+            "instagram": "InstagramURL"
+        },
+        {
+            "title": "Talk To Me",
+            "onair": true,
+            "periodicity": "Best Radio Program",
+            "time": "9:00",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus velit nisi, suscipit sed mattis ullamcorper, venenatis non ex. Sed feugiat consequat elit, a lacinia est volutpat sit amet. Sed quis bibendum nisi. Nullam eget ipsum sagittis, consectetur nunc eget, hendrerit lacus. Maecenas aliquam, diam et mattis placerat, dui mauris mollis erat, in tincidunt sem augue ut leo. Maecenas dui purus, bibendum id sem ut, condimentum dictum eros. Suspendisse in est tortor. Quisque sed nulla placerat, commodo erat id, pulvinar odio.",
+            "image": "https://image.freepik.com/free-photo/close-up-microphone-music-studio-music-concept_39704-3076.jpg",
+            "facebook": "FacebookURL",
+            "twitter": "TwitterURL",
+            "instagram": "InstagramURL"
+        },
+        {
+            "title": "Listen and repeat",
+            "onair": true,
+            "periodicity": "Best Radio Program",
+            "time": "9:00",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus velit nisi, suscipit sed mattis ullamcorper, venenatis non ex. Sed feugiat consequat elit, a lacinia est volutpat sit amet. Sed quis bibendum nisi. Nullam eget ipsum sagittis, consectetur nunc eget, hendrerit lacus. Maecenas aliquam, diam et mattis placerat, dui mauris mollis erat, in tincidunt sem augue ut leo. Maecenas dui purus, bibendum id sem ut, condimentum dictum eros. Suspendisse in est tortor. Quisque sed nulla placerat, commodo erat id, pulvinar odio.",
+            "image": "https://image.freepik.com/free-photo/equipment-empty-musical-recording-room_1303-20399.jpg",
+            "facebook": "FacebookURL",
+            "twitter": "TwitterURL",
+            "instagram": "InstagramURL"
+        },
+        {
+            "title": "HeadRadio",
+            "onair": true,
+            "periodicity": "Best Radio Program",
+            "time": "9:00",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus velit nisi, suscipit sed mattis ullamcorper, venenatis non ex. Sed feugiat consequat elit, a lacinia est volutpat sit amet. Sed quis bibendum nisi. Nullam eget ipsum sagittis, consectetur nunc eget, hendrerit lacus. Maecenas aliquam, diam et mattis placerat, dui mauris mollis erat, in tincidunt sem augue ut leo. Maecenas dui purus, bibendum id sem ut, condimentum dictum eros. Suspendisse in est tortor. Quisque sed nulla placerat, commodo erat id, pulvinar odio.",
+            "image": "https://image.freepik.com/free-photo/still-life-with-retro-radio-receiver-flower-vases_1150-19435.jpg",
+            "facebook": "FacebookURL",
+            "twitter": "TwitterURL",
+            "instagram": "InstagramURL"
+        },
+        {
+            "title": "Heart Wave",
+            "onair": true,
+            "periodicity": "Best Radio Program",
+            "time": "9:00",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus velit nisi, suscipit sed mattis ullamcorper, venenatis non ex. Sed feugiat consequat elit, a lacinia est volutpat sit amet. Sed quis bibendum nisi. Nullam eget ipsum sagittis, consectetur nunc eget, hendrerit lacus. Maecenas aliquam, diam et mattis placerat, dui mauris mollis erat, in tincidunt sem augue ut leo. Maecenas dui purus, bibendum id sem ut, condimentum dictum eros. Suspendisse in est tortor. Quisque sed nulla placerat, commodo erat id, pulvinar odio.",
+            "image": "https://image.freepik.com/free-vector/colorful-sound-wave-set_74855-949.jpg",
+            "facebook": "FacebookURL",
+            "twitter": "TwitterURL",
+            "instagram": "InstagramURL"
+        },
+        {
+            "title": "Vintage",
+            "onair": true,
+            "periodicity": "Best Radio Program",
+            "time": "9:00",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus velit nisi, suscipit sed mattis ullamcorper, venenatis non ex. Sed feugiat consequat elit, a lacinia est volutpat sit amet. Sed quis bibendum nisi. Nullam eget ipsum sagittis, consectetur nunc eget, hendrerit lacus. Maecenas aliquam, diam et mattis placerat, dui mauris mollis erat, in tincidunt sem augue ut leo. Maecenas dui purus, bibendum id sem ut, condimentum dictum eros. Suspendisse in est tortor. Quisque sed nulla placerat, commodo erat id, pulvinar odio.",
+            "image": "https://image.freepik.com/free-photo/retro-broadcast-radio-receiver-pink-light-blue-background_23-2148695313.jpg",
+            "facebook": "FacebookURL",
+            "twitter": "TwitterURL",
+            "instagram": "InstagramURL"
+        }
+    ],
+    "podcasts":[
+        {
+            "title": "Episode 1",
+            "program_title": "Together Night",
+            "datetime": 1610895395,
+            "description": "Pellentesque auctor, sapien vitae consectetur bibendum, magna elit vehicula dolor, eget aliquam arcu est nec massa. Sed commodo nibh nulla, at convallis lacus efficitur eu.",
+            "image": "https://image.freepik.com/free-vector/collection-neon-podcast-logos-template_23-2148758081.jpg",
+            "uri": "https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3"
+        },
+        {
+            "title": "Topic: Camera",
+            "program_title": "Vintage",
+            "datetime": 1610933213,
+            "description": "Pellentesque auctor, sapien vitae consectetur bibendum, magna elit vehicula dolor, eget aliquam arcu est nec massa. Sed commodo nibh nulla, at convallis lacus efficitur eu.",
+            "image": "https://image.freepik.com/free-photo/flat-lay-film-camera-isolated-pink-background-copy-space_136875-797.jpg",
+            "uri": "https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3"
+        }
+    ],
+    "authors":[
+        {
+                "firstname":"Mario",
+                "lastname":"Rossi",
+                "nickname": "Reds",
+                "image":"https://i.pinimg.com/736x/46/b3/d2/46b3d2626ecae55be2d44d37270be2a6--bearded-guys-male-faces.jpg"
+            },
+            {
+                "firstname":"John",
+                "lastname":"Smith",
+                "nickname": "The Agent",
+                "image":"https://giantbomb1.cbsistatic.com/uploads/square_small/15/155745/2179159-agent_smith.jpg"
+    }],
+    "performs":[
+        {
+            "firstname":"Mario",
+            "lastname":"Rossi",
+            "program_title":"Vintage",
+            "role":"Director"
+        },
+        {
+            "firstname":"John",
+            "lastname":"Smith",
+            "program_title":"Together Night",
+            "role":"Author"
+        },
+        {
+            "firstname":"John",
+            "lastname":"Smith",
+            "program_title":"Talk To Me",
+            "role":"Author"
+        }
+    ],
+    "livetrack":{
+        "url": "http://streaming307.radionomy.com/RMCMonteCarlo",
+        "title_url": "https://random-word-api.herokuapp.com/word?number=1&swear=0",
+        "image_url": "http://jsonplaceholder.typicode.com/photos/1"
+    }
+}
