@@ -39,8 +39,8 @@ class Home extends Component {
 
     componentWillMount() {
         const { dispatch } = this.props;
-        dispatch(resetPlayer());
-        dispatch(resetPrograms());
+        // dispatch(resetPlayer());
+        // dispatch(resetPrograms());
 
         dispatch(getAllPrograms());
         dispatch(getActivePrograms());
